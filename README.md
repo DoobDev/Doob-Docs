@@ -27,6 +27,15 @@
 
 | Subcommand | What it does: |
 | :--- | :--- |
-| d! twitch -search | Searches a user on Twitch for some information about their stream. |
-| d! twitch -title | Gives the Title and Game of a Twitch user you are looking for. |
+| d!twitch -search | Searches a user on Twitch for some information about their stream. |
+| d!twitch -title | Gives the Title and Game of a Twitch user you are looking for. |
+
+## d!role: subcommands
+
+| Subcommand | What it does: |
+| :--- | :--- |
+| d!role -add | Adds a role \(or multiple\) to a person \(or multiple people\). |
+| d!role -remove | Removes a role \(or multiple\) to a person \(or multiple people\). |
+| d!role -create | Creates a role on the current server. |
+| d!role -delete | Deletes a role \(or multiple\) on the current server. |
 
