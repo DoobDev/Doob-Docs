@@ -39,3 +39,12 @@
 | d!role -create | Creates a role on the current server. |
 | d!role -delete | Deletes a role \(or multiple\) on the current server. |
 
+## d!issue: subcommands
+
+All `d!issue` subcommands are Owner Only.
+
+| Subcommand | What it does: |
+| :--- | :--- |
+| d!issue -create | Creates an issue in `DoobDev/Doob` |
+| d!issue -close | Closes an issue in `DoobDev/Doob` |
+
