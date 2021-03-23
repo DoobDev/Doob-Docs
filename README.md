@@ -48,3 +48,12 @@ All `d!issue` subcommands are Owner Only.
 | d!issue -create | Creates an issue in `DoobDev/Doob` |
 | d!issue -close | Closes an issue in `DoobDev/Doob` |
 
+## d!valroll: subcommands
+
+| Subcommand | What it does: |
+| :--- | :--- |
+| d!valroll -duelists | Get a random VALORANT character that is a duelist. |
+| d!valroll -sentinels | Get a random VALORANT character that is a sentinel. |
+| d!valroll -initiators | Get a random VALORANT character that is a initiator. |
+| d!valroll -controllers | Get a random VALORANT character that is a controller. |
+
