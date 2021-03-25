@@ -6,7 +6,7 @@ description: 'Commands for Doob on DogeHouse (https://github.com/doobdev/doobhou
 
 ## d!ping
 
-"Pong"
+🏓 Pong!
 
 ## d!help
 
