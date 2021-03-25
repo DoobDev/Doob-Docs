@@ -12,5 +12,11 @@ description: 'Commands for Doob on DogeHouse (https://github.com/doobdev/doobhou
 
 Gives you a link to this page!
 
+## d!dogfact
 
+Gives you a Dog Fact!
+
+## d!dogpic
+
+Gives you a cute dog picture! \(If you want to add your dog, the API is open source 👀 - [https://github.com/jigsawpieces/dog-api-images\#dog-api-images](https://github.com/jigsawpieces/dog-api-images#dog-api-images)\)
 
