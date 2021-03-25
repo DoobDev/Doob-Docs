@@ -28,3 +28,8 @@ Gives you the developer's GitHub and DogeHouse profiles!
 
 Gives you the `DoobHouse` repo on GitHub.
 
+## d!asktospeak
+
+\(Owner Only\)  
+Doob asks to speak!
+
