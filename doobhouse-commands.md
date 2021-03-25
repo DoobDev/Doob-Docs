@@ -4,11 +4,11 @@ description: 'Commands for Doob on DogeHouse (https://github.com/doobdev/doobhou
 
 # DoobHouse commands
 
-## !ping
+## d!ping
 
 "Pong"
 
-## !help
+## d!help
 
 Gives you a link to this page!
 
