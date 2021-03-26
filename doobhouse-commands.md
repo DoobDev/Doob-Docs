@@ -20,3 +20,20 @@ Gives you a Dog Fact!
 
 Gives you a cute dog picture! \(If you want to add your dog, the API is open source 👀 - [https://github.com/jigsawpieces/dog-api-images\#dog-api-images](https://github.com/jigsawpieces/dog-api-images#dog-api-images)\)
 
+## d!dev
+
+Gives you the developer's GitHub and DogeHouse profiles!
+
+## d!repo
+
+Gives you the `DoobHouse` repo on GitHub.
+
+## d!asktospeak
+
+\(Owner Only\)  
+Doob asks to speak!
+
+## d!dogehouse
+
+Gives you some DogeHouse stats.
+
