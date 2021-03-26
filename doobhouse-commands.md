@@ -37,3 +37,7 @@ Doob asks to speak!
 
 Gives you some DogeHouse stats.
 
+## d!letmespeak
+
+Gives you speaker role!
+
