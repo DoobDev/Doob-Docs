@@ -1,3 +1,7 @@
+---
+description: This is for the Discord bot.
+---
+
 # Subcommands
 
 ## d!fm: subcommands
