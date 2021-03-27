@@ -45,3 +45,7 @@ Gives you speaker role!
 
 Gives your UserID
 
+## d!owoify
+
+"Owoifys" your text.
+
