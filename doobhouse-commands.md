@@ -41,3 +41,7 @@ Gives you some DogeHouse stats.
 
 Gives you speaker role!
 
+## d!userid
+
+Gives your UserID
+
