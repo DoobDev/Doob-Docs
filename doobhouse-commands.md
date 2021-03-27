@@ -49,3 +49,7 @@ Gives your UserID
 
 "Owoifys" your text.
 
+## d!valroll
+
+Rolls a random VALORANT character for you to play.
+
