@@ -1,3 +1,7 @@
+---
+description: This is for the Discord bot.
+---
+
 # Subcommands
 
 ## d!fm: subcommands
@@ -45,8 +49,8 @@ All `d!issue` subcommands are Owner Only.
 
 | Subcommand | What it does: |
 | :--- | :--- |
-| d!issue -create | Creates an issue in `DoobDev/Doob` |
-| d!issue -close | Closes an issue in `DoobDev/Doob` |
+| d!issue -create {label} {priority} {title} | Creates an issue in `DoobDev/Doob` |
+| d!issue -close {issue number} | Closes an issue in `DoobDev/Doob` |
 
 ## d!valroll: subcommands
 
